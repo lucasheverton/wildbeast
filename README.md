@@ -2,4 +2,4 @@
 
 > [Wildbeast](https://lucasheverton.github.io/wildbeast/)
 
-<img align="center" src="./wildbeast.gif" alt="Apresentation Wildbeast" title="Apresentation Wildbeast"/>
+<img align="center" width="75%" src="./wildbeast.gif" alt="Apresentation Wildbeast" title="Apresentation Wildbeast"/>
