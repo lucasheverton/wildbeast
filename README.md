@@ -1,3 +1,8 @@
-## A simple Landing page to trainning css grid layout.
+## A simple static page to trainning css grid layout.
 
-<img align="center" src="./wildbeast.gif" alt="Apresentation Wildbeast" title="Apresentation Wildbeast"/>
+> [Wildbeast](https://lucasheverton.github.io/wildbeast/)
+
+<div align="center">
+  <img width="75%" src="./wildbeast.gif" alt="Apresentation Wildbeast" title="Apresentation Wildbeast"/>
+</div>
+
